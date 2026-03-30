@@ -1,0 +1,2 @@
+[dotenv@17.3.1] injecting env (2) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+API running on port 3000
